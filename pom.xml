@@ -5,7 +5,7 @@
     <name>venturocket-api-java</name>
     <groupId>com.venturocket</groupId>
     <artifactId>api-client</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>The official Java client library for Venturocket's API</description>
     <url>http://github.com/venturocket/venturocket-api-java</url>
@@ -30,7 +30,7 @@
         <connection>scm:git:git@github.com:Venturocket/venturocket-api-java.git</connection>
         <developerConnection>scm:git:git@github.com:Venturocket/venturocket-api-java.git</developerConnection>
         <url>https://github.com/Venturocket/venturocket-api-java</url>
-        <tag>api-client-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>

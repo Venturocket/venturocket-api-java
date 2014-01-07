@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:venturocket/venturocket-api-java.git</connection>
-        <developerConnection>scm:git:git@github.com:venturocket/venturocket-api-java.git</developerConnection>
-        <url>http://github.com/venturocket/venturocket-api-java</url>
+        <connection>scm:git:git@github.com:Venturocket/venturocket-api-java.git</connection>
+        <developerConnection>scm:git:git@github.com:Venturocket/venturocket-api-java.git</developerConnection>
+        <url>https://github.com/Venturocket/venturocket-api-java</url>
         <tag>HEAD</tag>
     </scm>
 
